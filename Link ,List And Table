@@ -1,0 +1,41 @@
+<html>
+<body>
+    
+<a href="https://www.youtube.com/">Click Here To Enter Youtube</a>
+<br> 
+<ul>
+    <li>fish</li>
+    <li>rice</li>
+    <li>potato</li>
+</ul>
+<br>
+<ol>
+    <li>One piece</li>
+    <li>Dragonball Z</li>
+    <li>blue lock</li>
+</ol>
+<H3>NEO EGOIST LEAGUE</H3>
+<Table border="5">
+<tr>
+    <th>Club</th>
+    <th>Name</th>
+    <th>Country</th>
+</tr>
+<tr>
+    <td>Basterd Munich</td>
+    <td>Isagi Yoichi</td>
+    <td>Japan</td>
+</tr>
+<tr>
+    <td>PXG</td>
+    <td>Itoshi Rin</td>
+    <td>Japan</td>
+</tr>
+<tr>
+    <td>Manchine City</td>
+    <td>Nagi</td>
+    <td>Japan</td>
+</tr>
+</Table>
+</body>
+</html>
