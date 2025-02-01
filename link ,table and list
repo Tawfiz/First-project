@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Blue Lock</h1><br>
+        <h2>Neo Egoist League</h2>
+        <table border="5">
+            <tr>
+                <th>Club</th>
+                <th>Name</th>
+                <th>Value</th>
+            </tr>
+            <tr>
+                <td>Basterd Munich</td>
+                <TD>Isagi</TD>
+<td>300 million</td>
+            </tr>
+            <tr>
+                <td>Ubers</td>
+                <td>Barou</td>
+                <td>250 million</td>
+            </tr>
+            <tr>
+                <td>PXG</td>
+                <td>Rin</td>
+                <td>225 Million</td>
+            </tr>
+        
+        </table>
+        <a href="https://www.reddit.com/r/BlueLock/comments/1443g15/neo_egoist_league_final_rankings/">Click here to learn  more</a>
+    </body>
+</html>
