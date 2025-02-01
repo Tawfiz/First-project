@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <audio controls autoplay src="Poem.mpeg">   
+ </audio>
+ <video height="300" width="300
+" src="happiness.mp4"></video>
+<img src="https://bluelock-anime-en.com/wp-content/themes/anime/assets/images/mv241103_sp.jpg"
+height="500" alt="">
+</body>
+</html>
