@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #A{
+            color: gold;
+        }
+        #B{
+            color: aqua;
+        }
+        *{
+            font-size: x-large;
+        }
+    </style>
+</head>
+<body >
+<h4 >Bangladesh</h4>
+<p id="A">Bangladesh is the most polluted Country</p>
+<p id="B">It is also the eighth most populated country</p>
+
+</body>
+</html>
