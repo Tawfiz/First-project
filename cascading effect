@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{
+               background-image: url(https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg);  
+               background-repeat:no-repeat;
+               background-attachment: fixed;
+               
+            }
+            @keyframes example{
+                0% {background-color:blue;}
+                25% {background-color:red;}
+                50% {background-color:yellow;}
+                100% {background-color:green;}
+
+            }
+            #a{
+                width: 100px;
+                height: 100px;
+                background-color: red;
+                animation-name:example;
+                animation-duration: 10s;
+                
+            } 
+            #b{
+                background: -linear-gradient(blue,white);
+            }
+        </style>
+    </head>
+    <body>
+        <div id="a">Hello</div>
+        <div id="b"></div>
+    </body>
+</html>
