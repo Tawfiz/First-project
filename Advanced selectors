@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{
+               padding: 25px;
+               background-color: black;
+               color: white;
+            }
+            h1{
+                color: blue;
+            }
+            li:hover{
+                color: red;
+            }
+            ul>li{
+                font-weight: bold;
+            }
+            ul li::before{
+                content: "🚀";
+            }
+            a::after{
+                content: "🌌";
+            }
+            ul li:nth-child(3){
+                background-color: #4F8CC9;
+            }
+            p::first letter{
+                font-size: 200%;
+                color: blueviolet;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Welcome to Space Explolers Club</h1>
+        <ul>
+            <li>Moons mission</li>
+            <li>Mars Rovers</li>
+            <li>Interational Space Station</li>
+            <li>Telescopes and Stars</li>
+
+<li>Black Holes Mysteries</li>
+
+</ul>
+
+<p>Space exploration has always
+
+captivated human imagination.
+
+It's a journey to the unknown!</p>
+
+
+<p>From the Moon to distant galaxies,
+
+we continue to explore the
+
+vastness of space.</p>
+
+<a href="#">Join our Mission</a>
+
+<a href="#">Latest Space News</a>
+
+<a href="#">Gallery of the Universe</a>
+
+    </body>
+</html>
