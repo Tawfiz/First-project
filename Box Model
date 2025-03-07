@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .example1{
+                width: 220px;
+                background-color: aqua;
+                padding: 10px 20px 10px 40px ;
+                border: 20px solid blue;
+                margin:20px ;
+                float: left;
+            }
+            .example2{
+                width: 220px;
+                background-color: aqua;
+                padding: 10px 20px 10px 40px ;
+                border: 20px solid red;
+                margin:20px ;
+                float: right;
+            }
+            #t1{
+                float: left;
+            }
+            #t2{
+                float: right;
+            }
+                
+            
+
+            
+        </style>
+    </head>
+    <body>
+        <h1>Box Model Example</h1>
+        <hr>
+        <p class="example1">My Content example 1</p>
+        <p class="example2">my content example 2</p>
+        <h2>Float right</h2>
+        <p>in this exaample,the image will float to the right in the paragraph,,and the text in the paragraph wil wrap around the image.</p>
+        <img id="t1" src="https://assets.manutd.com/AssetPicker/images/0/0/10/126/687707/Legends-Profile_Cristiano-Ronaldo1523460877263.jpg" alt="Ronaldo"
+        style="width: 100px;height: 100px;">
+        <img id="t2" src="https://assets.manutd.com/AssetPicker/images/0/0/10/126/687707/Legends-Profile_Cristiano-Ronaldo1523460877263.jpg" alt="ronaldo"
+        style="width: 100px;height: 100px;">
+
+    </body>
+</html>
