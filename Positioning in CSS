@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            div{
+                right: 30px;
+                border: 3px solid red;
+            }
+            .Stiky1{
+                position: sticky;
+                top: 0;
+                right: 20px;
+                width: 50px;
+                border: 6px solid blue;
+            }
+            .Fixed{
+                position: fixed;
+                top: 0;
+                left: 20px;
+                width: 50px;
+                border: 6px solid blue;
+            } 
+
+            #Absolute{
+                position: absolute;
+                height: 100px;
+                width: 100px;
+                top: 200px;
+                background-color: black;
+            }
+            #relative{
+                position: relative;
+                height: 50px;
+                width: 50px;
+                top: 10px;
+                left: 10px;
+                background-color: blue;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Positioning</h2>
+        <div>
+            Div with no Position Property
+        </div>
+        <div class="Stiky1">
+            div with sticky position property
+        </div>
+        <div class="Fixed">
+            Div with fixed position property
+        </div>
+        <div id="Absolute">
+            
+            <div id="relative"></div>
+        </div>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    </body>
+</html>
