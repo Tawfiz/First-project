@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    </head>
+    <body>
+        <div class="container-fluid  pb-3 bg-primary text-warning">
+            <h1>The Goated Line of Erwin</h1>
+            <p>Everything that you thought had meaning: every hope, dream, or moment of happiness. None of it matters as you lie bleeding out on the battlefield. None of it changes what a speeding boulder does to a body, we all die." </p>
+
+        </div>
+        <div class="container-fluid  py-4 mb-4 bg-info text-warning">
+            <h1>The Goated Line of Erwin</h1>
+            <p>Everything that you thought had meaning: every hope, dream, or moment of happiness. None of it matters as you lie bleeding out on the battlefield. None of it changes what a speeding boulder does to a body, we all die." </p>
+
+        </div>
+        <div class="container-fluid mb-5 bg-success text-warning">
+        <h1>The Goated Line of Erwin</h1>
+        <p>Everything that you thought had meaning: every hope, dream, or moment of happiness. None of it matters as you lie bleeding out on the battlefield. None of it changes what a speeding boulder does to a body, we all die." </p>
+
+    </div> 
+
+        <div class="container-fluid my-3 bg-warning text-danger">
+            <h1>The Goated Line of Erwin</h1>
+            <p>Everything that you thought had meaning: every hope, dream, or moment of happiness. None of it matters as you lie bleeding out on the battlefield. None of it changes what a speeding boulder does to a body, we all die." </p>
+
+        </div>
+        <div class="container-fluid  bg-danger text-warning">
+            <h1>The Goated Line of Erwin</h1>
+            <p>Everything that you thought had meaning: every hope, dream, or moment of happiness. None of it matters as you lie bleeding out on the battlefield. None of it changes what a speeding boulder does to a body, we all die." </p>
+    
+        </div> 
+        <div class="container-fluid bg-dark text-warning">
+            <h1>The Goated Line of Erwin</h1>
+            <p>Everything that you thought had meaning: every hope, dream, or moment of happiness. None of it matters as you lie bleeding out on the battlefield. None of it changes what a speeding boulder does to a body, we all die." </p>
+    
+        </div> 
+        <div class="container-fluid bg-secondary text-warning">
+            <h1>The Goated Line of Erwin</h1>
+            <p>Everything that you thought had meaning: every hope, dream, or moment of happiness. None of it matters as you lie bleeding out on the battlefield. None of it changes what a speeding boulder does to a body, we all die." </p>
+    
+        </div> 
+        <div class="container-fluid bg-light text-warning">
+            <h1>The Goated Line of Erwin</h1>
+            <p>Everything that you thought had meaning: every hope, dream, or moment of happiness. None of it matters as you lie bleeding out on the battlefield. None of it changes what a speeding boulder does to a body, we all die." </p>
+    
+        </div> 
+        <div class="container-fluid bg-white text-warning">
+            <h1>The Goated Line of Erwin</h1>
+            <p>Everything that you thought had meaning: every hope, dream, or moment of happiness. None of it matters as you lie bleeding out on the battlefield. None of it changes what a speeding boulder does to a body, we all die." </p>
+    
+        </div> 
+        
+
+    </body>
+    </html>
