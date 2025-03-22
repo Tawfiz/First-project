@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head><link rel="stylesheet" href=" https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css "></head>
+    <body style="text-align: center;">
+      <div class="jumbotron"> 
+        <div class="container">
+            <h1 style="color: red;"> 
+                   codingal
+            </h1>
+            <p>Codingal will help you fall in love coding</p>
+        </div>
+      </div>  
+      <div class="container">
+          <h2>Buttons</h2>
+          <button type="button " class="btn btn-primary">blue <div class="badge badge-danger">5</div></button>
+          <button type="button" class="btn btn-warning">yellow</button>
+          <button type="button " class="btn btn-success">green</button>
+          <button type="button " class="btn btn-danger">red</button>
+          <button type="button " class="btn btn-secondary">grey</button>
+      </div>
+      <div class="container">
+        <h2>Contextual badges</h2>
+        <span class="badge badge-primary"><span class="badge badge-primary">blue</span></span>
+        <span class="badge badge-success"><span class="badge badge-success">green</span></span>
+        <span class="badge badge-warning"><span class="badge badge-warning">yellow</span></span>
+        <span class="badge badge-danger"><span class="badge badge-danger">red</span></span>
+        <span class="badge badge-dark"><span class="badge badge-dark">black</span></span>
+        <span class="badge badge-info"><span class="badge badge-info">sky</span></span>
+        <span class="badge badge-secondary"><span class="badge badge-secondary">grey</span></span>
+        
+      </div> <h1>Basic Progress Bar</h1>
+      
+      <div class="progress">
+        <div class="progress-bar "  style="width: 50%;">50%</div>
+      </div>
+    </body>
+</html>
